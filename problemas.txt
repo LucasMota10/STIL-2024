@@ -1,6 +1,0 @@
-1. Os artigos não estão na mesma estrutura (Introdução, Metodologia...):
-2. uns estão em português outros em inglês 
-
-Como a intenção de utilizar o corpus de uma forma mais "crua" e devido a falta de estruturação dos artigos,
-resolvi apenas criar uma chave "artigo_completo" contendo todo o conteudo do pdf como string e facilitando as analises do seu conteudo
-obs: (Não foram armazenadas as imagens)
