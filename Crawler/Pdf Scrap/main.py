@@ -20,5 +20,5 @@ for conf in conf_principal:
     conf["artigo_completo"] = extract_text(artigo_path)
     dados["conferencia_principal"].append(conf)
 
-with open("artigos_serializados_completo.json", "w", encoding="utf-8") as f:
+with open("corpus_artigos.json", "w", encoding="utf-8") as f:
     json.dump(dados, f, ensure_ascii=False, indent=4)
