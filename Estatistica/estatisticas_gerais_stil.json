@@ -1,0 +1,29 @@
+{
+    "numero_medio_sentencas": 165.0,
+    "numero_medio_tokens": 5486.083333333333,
+    "numero_de_tokens_diferentes": 7238,
+    "top_10_tokens": {
+        "de": 5504,
+        ",": 5460,
+        ".": 4970,
+        "-": 2700,
+        "e": 2198,
+        "a": 1970,
+        "o": 1729,
+        "##s": 1687,
+        "em": 1532,
+        "|": 1468
+    },
+    "down_10_tokens": {
+        "##ulares": 1,
+        "York": 1,
+        "Times": 1,
+        "Street": 1,
+        "Journal": 1,
+        "##\u00cd": 1,
+        "suposto": 1,
+        "incer": 1,
+        "agregado": 1,
+        "sai": 1
+    }
+}
